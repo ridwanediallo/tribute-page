@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  background: linear-gradient(5deg, blueviolet, white);
+}
+
+#main {
+  min-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  margin: 5px 30px;
+  background-color: #fff;
+  padding: 0 40px 20px 40px;
+  background: linear-gradient(10deg, white, blueviolet);
+  border-radius: 9px;
+}
+#img-div{
+
+}
+img {
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+#tribute-info{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+li{
+    margin-bottom: 12px;
+}
